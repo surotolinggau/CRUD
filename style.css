@@ -1,0 +1,57 @@
+p,a{
+	font-family: arial;
+}
+h1{
+	color: hotpink;
+}
+
+#tambah{
+	background-color: green;
+	color: white;
+	text-decoration: none;
+	padding: 5px;
+	border-radius: 5px;
+	border: none;
+	margin: 10px;
+}
+
+#head{
+	margin-top: 10px;
+	display: block;
+	background-color: grey;
+	height: 25px;
+	color: white;
+	line-height: 25px;
+	padding-left: 10px;
+	font-family: arial;
+}
+
+#body{
+	padding-top: 10px;
+	font-family: arial;
+
+}
+
+#body a{
+	text-decoration: none;
+	padding: 5px;
+	color: white;
+	font-size: 14px;
+
+}
+
+#hapus{
+	background-color: red;
+}
+#edit{
+	background-color: blue;
+}
+
+.col-3{
+	float: left;
+	width: 20%;
+}
+
+.clear{
+	clear: both;
+}
